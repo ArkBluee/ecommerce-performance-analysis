@@ -61,6 +61,13 @@ This project analyzes sales data from a Brazilian marketplace to identify why ce
 </details>
 
 <details>
+<summary>📁 report</summary>
+
+- E-Commerce_Performance_Analysis_Report.pdf
+  
+</details>
+
+<details>
 <summary>📁 sql</summary>
 
 - preprocessing.sql  
