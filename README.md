@@ -1,4 +1,4 @@
-# E-Commerce Performance Analysis
+# E-Commerce Performance Diagnostic Analysis
 
 This project analyzes sales data from a Brazilian marketplace to identify why certain product categories underperform. It simulates a real-world analytics workflow, from SQL data cleaning to Python visualization and Power BI dashboard reporting.
 
