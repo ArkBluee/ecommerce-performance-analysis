@@ -263,7 +263,7 @@ JOIN (
     ANY_VALUE(p2.product_photos_qty) AS product_photos_qty
   FROM products p1
   JOIN products p2
-		ON p1.product_category_name = p2.product_category_name
+	ON p1.product_category_name = p2.product_category_name
    AND p1.product_name_length = p2.product_name_length
   WHERE (
         p1.product_weight_g IS NULL OR
